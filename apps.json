@@ -1,11 +1,11 @@
 {
-  "announcement": "📢 Dikkat: OXelira Güncellendi! Hemen Yükleyin.",
+  "announcement": "📢 Dikkat: OXelira Güncellendi! Hemen Yükleyin. İstek ve Görüşleriniz için bize maille ulaşabilirsiniz.",
   "apps": [
     {
       "id": "1",
       "name": "OxeLira",
       "packageName": "com.example.store",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "versionCode": 3,
       "size": "15.0 MB",
       "description": "APK mağaza ve dağıtım uygulaması.",
