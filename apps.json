@@ -1,57 +1,51 @@
-[
-  {
-    "id": "1",
-    "name": "OxeLira",
-    "packageName": "com.example.store",
-    "version": "1.1.0",
-    "versionCode": 1,
-    "size": "15.0 MB",
-    "description": "APK mağaza ve dağıtım uygulaması.",
-    "developer": "MCMVll",
-    "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Playmax.apk",
-    "releaseNotes": "• İlk sürüm yayınlandı.",
-    "category": "Araçlar",
-    "rating": 5.0,
-    "downloads": "10+"
-  },
-  {
-    "id": "2",
-    "name": "KasaM",
-    "packageName": "com.example.kasam",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "size": "10.0 MB",
-    "description": "Bütçeniz kontrol altında.",
-    "developer": "MCMVll",
-    "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/KasaM.apk",
-    "releaseNotes": "• İlk sürüm yayınlandı.",
-    "category": "Araçlar",
-    "rating": 5.0,
-    "downloads": "1+"
-  },
-  {
-    "id": "3",
-    "name": "Harcama Kontrol",
-    "packageName": "com.example.harcamakontrol",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "size": "12.0 MB",
-    "description": "Kişisel bütçenizi ve günlük harcamalarınızı kolayca takip edebilirsiniz.",
-    "developer": "MCMVll",
-    "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Harcama%20Kontrol.apk",
-    "releaseNotes": "• İlk sürüm yayınlandı.",
-    "category": "Verimlilik",
-    "rating": 4.9,
-    "downloads": "1+"
-  }
-]
 {
   "announcement": "📢 Dikkat: OxeLira Güncellendi! Hemen Güncelleyin.",
   "apps": [
     {
       "id": "1",
       "name": "OxeLira",
-      ...
+      "packageName": "com.example.store",
+      "version": "1.1.0",
+      "versionCode": 1,
+      "size": "15.0 MB",
+      "description": "APK mağaza ve dağıtım uygulaması.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Araçlar",
+      "rating": 5.0,
+      "downloads": "10+"
+    },
+    {
+      "id": "2",
+      "name": "KasaM",
+      "packageName": "com.example.kasam",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "size": "10.0 MB",
+      "description": "Bütçeniz kontrol altında.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Araçlar",
+      "rating": 5.0,
+      "downloads": "1+"
+    },
+    {
+      "id": "3",
+      "name": "Harcama Kontrol",
+      "packageName": "com.example.harcamakontrol",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "size": "12.0 MB",
+      "description": "Kişisel bütçenizi ve günlük harcamalarınızı kolayca takip edebilirsiniz.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Verimlilik",
+      "rating": 4.9,
+      "downloads": "1+"
     }
   ]
 }
+
