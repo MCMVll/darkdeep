@@ -45,11 +45,11 @@
       "category": "Verimlilik",
       "rating": 4.9,
       "downloads": "1+"
-    }
+    },
     {
       "id": "4",
       "name": "Dizilim",
-      "packageName": "Dizilim",
+      "packageName": "com.example.dizilim",
       "version": "1.0.0",
       "versionCode": 1,
       "size": "17.0 MB",
@@ -60,7 +60,6 @@
       "category": "Medya",
       "rating": 5.0,
       "downloads": "1+"
-    },
+    }
   ]
 }
-
