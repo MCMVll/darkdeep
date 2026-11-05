@@ -1,5 +1,5 @@
 {
-  "announcement": "📢 Dikkat: KasaM V2 olarak güncellendi, Lütfen güncelleyiniz. İstek ve Görüşleriniz için bize maille ulaşabilirsiniz.",
+  "announcement": "📢 Dikkat: Dizilim programı listeye eklenmiştir. İstek ve Görüşleriniz için bize maille ulaşabilirsiniz.",
   "apps": [
     {
       "id": "1",
@@ -46,6 +46,21 @@
       "rating": 4.9,
       "downloads": "1+"
     }
+    {
+      "id": "4",
+      "name": "Dizilim",
+      "packageName": "Dizilim",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "size": "17.0 MB",
+      "description": "Her hikayenin izini tut.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/dizilim.apk",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Medya",
+      "rating": 5.0,
+      "downloads": "1+"
+    },
   ]
 }
 
