@@ -67,12 +67,12 @@
       "packageName": "com.example.nexora",
       "version": "1.0.0",
       "versionCode": 1,
-      "size": "17.0 MB",
+      "size": "25.0 MB",
       "description": "Not - Hatırlatma - Şifre. Hepsi tek uygulamada.",
       "developer": "MCMVll",
       "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Nexora.apk",
       "releaseNotes": "• İlk sürüm yayınlandı.",
-      "category": "Medya",
+      "category": "Araçlar",
       "rating": 5.0,
       "downloads": "1+"
     }
