@@ -1,5 +1,5 @@
 {
-  "announcement": "📢 Dikkat: Nexora programı listeye eklenmiştir. İstek ve Görüşleriniz için bize maille ulaşabilirsiniz.",
+  "announcement": "📢 Yeni uygulamalar eklendi: Dizin, Nağme ve Pinhan! İstek ve görüşleriniz için bize maille ulaşabilirsiniz.",
   "apps": [
     {
       "id": "1",
@@ -80,6 +80,57 @@
       "rating": 5.0,
       "downloads": "1+",
       "counterKey": "app-nexora"
+    },
+    {
+      "id": "6",
+      "name": "Dizin",
+      "packageName": "com.dizin.app",
+      "version": "1.1",
+      "versionCode": 2,
+      "size": "14.9 MB",
+      "description": "Dosyalarını düzenle, ZIP aç/oluştur, depolama alanını analiz et. Çöp kutusu ve gizli dosyalar dahil.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Dizin.apk",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Araçlar",
+      "rating": 5.0,
+      "downloads": "1+",
+      "updated": "25 Kas 2026",
+      "counterKey": "app-dizin"
+    },
+    {
+      "id": "7",
+      "name": "Nağme",
+      "packageName": "com.nagme.app",
+      "version": "1.1",
+      "versionCode": 2,
+      "size": "18.1 MB",
+      "description": "Arka planda çalan müzik çalar: çalma listeleri, favoriler, ekolayzır, şarkı sözleri ve uyku zamanlayıcısı.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Nagme.apk",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Medya",
+      "rating": 5.0,
+      "downloads": "1+",
+      "updated": "25 Kas 2026",
+      "counterKey": "app-nagme"
+    },
+    {
+      "id": "8",
+      "name": "Pinhan",
+      "packageName": "com.darkdeep.sakli",
+      "version": "1.2",
+      "versionCode": 3,
+      "size": "3.3 MB",
+      "description": "Fotoğraf ve videolarını PIN ve parmak iziyle kilitli, gizli bir galeride sakla. Klasörler ve yedekleme.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Pinhan.apk",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Medya",
+      "rating": 5.0,
+      "downloads": "1+",
+      "updated": "25 Kas 2026",
+      "counterKey": "app-pinhan"
     }
   ],
   "counterNamespace": "oxelira-mcmvll"
