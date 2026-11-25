@@ -5,23 +5,25 @@
       "id": "1",
       "name": "OxeLira",
       "packageName": "com.example.store",
-      "version": "1.2.0",
-      "versionCode": 3,
+      "version": "1.3.0",
+      "versionCode": 4,
       "size": "15.0 MB",
       "description": "APK mağaza ve dağıtım uygulaması.",
       "developer": "MCMVll",
       "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Oxelira.apk",
-      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "releaseNotes": "• Play Store tarzı yeni tasarım\n• Gerçek indirme sayacı\n• Güncellemeler sekmesi",
       "category": "Araçlar",
       "rating": 5.0,
-      "downloads": "10+"
+      "downloads": "10+",
+      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/oxelira.png",
+      "counterKey": "app-oxelira"
     },
     {
       "id": "2",
       "name": "KasaM",
-      "packageName": "com.example.kasam",
-      "version": "2.0.0",
-      "versionCode": 2,
+      "packageName": "com.darkdeep.kasam",
+      "version": "1.0",
+      "versionCode": 1,
       "size": "10.0 MB",
       "description": "Bütçeniz kontrol altında.",
       "developer": "MCMVll",
@@ -29,13 +31,15 @@
       "releaseNotes": "• İlk sürüm yayınlandı.",
       "category": "Araçlar",
       "rating": 5.0,
-      "downloads": "1+"
+      "downloads": "1+",
+      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/kasam.png",
+      "counterKey": "app-kasam"
     },
     {
       "id": "3",
       "name": "Harcama Kontrol",
-      "packageName": "com.example.harcamakontrol",
-      "version": "1.0.0",
+      "packageName": "com.darkdeep.harcamatakip",
+      "version": "1.0",
       "versionCode": 1,
       "size": "12.0 MB",
       "description": "Kişisel bütçenizi ve günlük harcamalarınızı kolayca takip edebilirsiniz.",
@@ -44,13 +48,15 @@
       "releaseNotes": "• İlk sürüm yayınlandı.",
       "category": "Verimlilik",
       "rating": 4.9,
-      "downloads": "1+"
+      "downloads": "1+",
+      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/harcama.png",
+      "counterKey": "app-harcama"
     },
     {
       "id": "4",
       "name": "Dizilim",
-      "packageName": "com.example.dizilim",
-      "version": "1.0.0",
+      "packageName": "com.dizilim.tracker",
+      "version": "0.7-test",
       "versionCode": 1,
       "size": "17.0 MB",
       "description": "Her hikayenin izini tut.",
@@ -59,13 +65,15 @@
       "releaseNotes": "• İlk sürüm yayınlandı.",
       "category": "Medya",
       "rating": 5.0,
-      "downloads": "1+"
+      "downloads": "1+",
+      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/dizilim.png",
+      "counterKey": "app-dizilim"
     },
     {
       "id": "5",
       "name": "Nexora",
-      "packageName": "com.example.nexora",
-      "version": "1.0.0",
+      "packageName": "com.example.hns",
+      "version": "1.0",
       "versionCode": 1,
       "size": "25.0 MB",
       "description": "Not - Hatırlatma - Şifre. Hepsi tek uygulamada.",
@@ -74,7 +82,10 @@
       "releaseNotes": "• İlk sürüm yayınlandı.",
       "category": "Araçlar",
       "rating": 5.0,
-      "downloads": "1+"
+      "downloads": "1+",
+      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/nexora.png",
+      "counterKey": "app-nexora"
     }
-  ]
+  ],
+  "counterNamespace": "oxelira-mcmvll"
 }
