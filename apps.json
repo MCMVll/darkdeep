@@ -15,7 +15,6 @@
       "category": "Araçlar",
       "rating": 5.0,
       "downloads": "10+",
-      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/oxelira.png",
       "counterKey": "app-oxelira"
     },
     {
@@ -32,7 +31,6 @@
       "category": "Araçlar",
       "rating": 5.0,
       "downloads": "1+",
-      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/kasam.png",
       "counterKey": "app-kasam"
     },
     {
@@ -49,7 +47,6 @@
       "category": "Verimlilik",
       "rating": 4.9,
       "downloads": "1+",
-      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/harcama.png",
       "counterKey": "app-harcama"
     },
     {
@@ -66,7 +63,6 @@
       "category": "Medya",
       "rating": 5.0,
       "downloads": "1+",
-      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/dizilim.png",
       "counterKey": "app-dizilim"
     },
     {
@@ -83,7 +79,6 @@
       "category": "Araçlar",
       "rating": 5.0,
       "downloads": "1+",
-      "iconUrl": "https://raw.githubusercontent.com/MCMVll/darkdeep/main/icons/nexora.png",
       "counterKey": "app-nexora"
     }
   ],
