@@ -1,5 +1,5 @@
 {
-  "announcement": "📢 Yeni uygulamalar eklendi: Dizin, Nağme ve Pinhan! İstek ve görüşleriniz için bize maille ulaşabilirsiniz.",
+  "announcement": "🎮 İlk oyunumuz geldi: Çapraz Bulmaca! İnternetsiz oynanır, bölümler gittikçe zorlaşır. İstek ve görüşleriniz için bize maille ulaşabilirsiniz.",
   "apps": [
     {
       "id": "1",
@@ -11,7 +11,7 @@
       "description": "APK mağaza ve dağıtım uygulaması.",
       "developer": "MCMVll",
       "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/Oxelira.apk",
-      "releaseNotes": "• Play Store tarzı yeni tasarım\n• Gerçek indirme sayacı\n• Güncellemeler sekmesi",
+      "releaseNotes": "• Güncelleme ve yeni uygulama bildirimleri\n• Hiç indirilmemiş uygulamalarda \"Yeni\" etiketi\n• Play Store tarzı tasarım ve gerçek indirme sayacı",
       "category": "Araçlar",
       "rating": 5.0,
       "downloads": "10+",
@@ -131,6 +131,24 @@
       "downloads": "1+",
       "updated": "25 Kas 2026",
       "counterKey": "app-pinhan"
+    },
+    {
+      "id": "9",
+      "name": "Çapraz Bulmaca",
+      "packageName": "com.capraz.bulmaca",
+      "version": "1.0",
+      "versionCode": 1,
+      "size": "0.1 MB",
+      "description": "İnternetsiz Türkçe çengel bulmaca. Bölüm bölüm ilerle, her bölüm bir öncekinden zor.",
+      "developer": "MCMVll",
+      "apkUrl": "https://github.com/MCMVll/darkdeep/raw/refs/heads/main/CaprazBulmaca.apk",
+      "releaseNotes": "• İlk sürüm yayınlandı.",
+      "category": "Oyunlar",
+      "rating": 5.0,
+      "downloads": "1+",
+      "updated": "26 Kas 2026",
+      "featured": true,
+      "counterKey": "app-capraz-bulmaca"
     }
   ],
   "counterNamespace": "oxelira-mcmvll"
